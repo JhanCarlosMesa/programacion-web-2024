@@ -1,0 +1,1 @@
+print("Odio mi puta vida")
